@@ -17,4 +17,23 @@ Hi there, I'm learning docker to be a profesional at coding, I want to share thi
 
 1. layers 
 2. images 
-3. 
+
+# sample application 
+
+$ buld the app's container image
+
+in order to build the application we need to use a docker file
+
+**what a docker file is ?**
+
+a docker file is simply a text-based script of instruction that used to create a container image. 
+
+
+
+
+
+
+
+
+
+
